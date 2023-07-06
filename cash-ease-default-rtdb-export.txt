@@ -1,0 +1,4 @@
+{
+  "ertewoirutow": "+62 12345678901",
+  "sdafgasjkdf": "www.abcdefg.store;www.abcdefg.store"
+}

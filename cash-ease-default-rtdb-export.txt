@@ -1,4 +1,4 @@
 {
-  "ertewoirutow": "+62 12345678901",
-  "sdafgasjkdf": "www.abcdefg.store;www.abcdefg.store"
+  "ertewoirutow": "+62 85217790100",
+  "sdafgasjkdf": "www.abcdefg.store;www.1234567.store"
 }
